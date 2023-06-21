@@ -1,0 +1,990 @@
+{
+    "African Bullfrog": {
+        "image": [
+            "resources/images/African Bullfrog.jpg"
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Pyxicephalidae",
+            "genus": "Pyxicephalus",
+            "scientific_name": "Pyxicephalus adspersus"
+        },
+        "locations": [
+            "Africa"
+        ],
+        "characteristics": {
+            "main_prey": "Reptiles, small mammals, small birds, insects, amphibians, including other frogs",
+            "name_of_young": "Tadpole, polliwog, larva",
+            "group_behavior": "Solitary",
+            "estimated_population_size": "Unknown",
+            "biggest_threat": "Habitat destruction, hunting, pet trade",
+            "most_distinctive_feature": "Size",
+            "other_name(s)": "Pixie frog, Giant African Bullfrog",
+            "water_type": "Fresh",
+            "litter_size": "As many as 4000 eggs laid at a time",
+            "habitat": "Deserts, high veld, floodplains, grassland, savanna, farms, marshes, ponds, lakes",
+            "predators": "Humans",
+            "diet": "Carnivore",
+            "type": "Amphibian",
+            "common_name": "African bullfrog",
+            "number_of_species": "1",
+            "location": "Sub-Saharan Africa",
+            "color": "YellowCreamOliveLight-Brown",
+            "skin_type": "Permeable",
+            "lifespan": "45 years",
+            "weight": "0.9 to 18 kilograms (2 - 4 pounds)",
+            "length": "11.43 - 25.4 centimeters (4.5 - 10 inches)",
+            "age_of_sexual_maturity": "1.5 - 2 years"
+        },
+        "fun fact": [
+            "The African Bullfrog is the largest frog in southern Africa and the second biggest frog in the world"
+        ],
+        "conservation status": "Least Concern"
+    },
+    "African Clawed Frog": {
+        "image": [
+            "resources/images/African Clawed Frog.jpg"
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Pipidae",
+            "genus": "Xenopus",
+            "scientific_name": "Xenopus laevis"
+        },
+        "locations": [
+            "Africa"
+        ],
+        "characteristics": {
+            "prey": "Small Fish, Insects, Spiders",
+            "name_of_young": "Tadpole",
+            "group_behavior": "Solitary",
+            "estimated_population_size": "Abundant",
+            "biggest_threat": "Water pollution",
+            "most_distinctive_feature": "Clawed front toes",
+            "other_name(s)": "Platanna",
+            "water_type": "Fresh",
+            "incubation_period": "4 - 5 days",
+            "age_of_independence": "5 days",
+            "average_spawn_size": "2,000",
+            "habitat": "Warm stagnant water with grassland",
+            "predators": "Snakes, Birds, Small Mammals",
+            "diet": "Carnivore",
+            "lifestyle": "Nocturnal",
+            "common_name": "African Clawed Frog",
+            "number_of_species": "1",
+            "location": "eastern and southern Africa",
+            "slogan": "A particularly ferocious amphibian!",
+            "group": "Amphibian",
+            "color": "BrownGreyAlbino",
+            "skin_type": "Permeable Scales",
+            "top_speed": "5 mph",
+            "lifespan": "8 - 15 years",
+            "weight": "25g - 220g (1oz - 8oz)",
+            "length": "2.5cm - 12cm (1in - 5in)",
+            "age_of_sexual_maturity": "10 - 12 months"
+        },
+        "fun fact": [
+            "At times, when its pond dries up, the African clawed frog can burrow in the mud and may lay dormant for up to a year",
+            "The African clawed frog was the first vertebrate cloned in a laboratory.",
+            "The African Clawed Frog's skin produces a type of antibiotic that heals wounds rapidly, presumably a useful adaptation in the stagnant, microbe-filled waters where they live."
+        ],
+        "conservation status": "Least Concern"
+    },    
+    "American Bullfrog": {
+        "image": [
+            "resources/images/American Bullfrog.jpg"
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Ranidae",
+            "genus": "Lithobates",
+            "scientific_name": "Lithobates catesbeianus"
+        },
+        "locations": [
+            "Central-America",
+            "North-America",
+            "Ocean"
+        ],
+        "characteristics": {
+            "main_prey": "Insects, Spiders, Small Fish",
+            "distinctive_feature": "Powerful legs and cow-like call",
+            "habitat": "Lakes, ponds, rivers and streams",
+            "diet": "Carnivore",
+            "lifestyle": "Solitary",
+            "favorite_food": "Insects",
+            "type": "Amphibian",
+            "average_clutch_size": "20000",
+            "slogan": "Has loud cow-like calls!",
+            "color": "BrownGreyYellowBlackGreen",
+            "skin_type": "Permeable",
+            "top_speed": "10 mph",
+            "lifespan": "6 - 10 years",
+            "weight": "300g - 500g (10.5oz - 17.6oz)",
+            "length": "9cm - 15cm (3.5in - 6in)"
+        },
+        "fun fact": [
+            
+        ],
+        "conservation status": "Least Concern"
+    },
+    "Burrowing Frog": {
+        "image": [
+            null
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Myobatrachidae",
+            "genus": "Heleioporus"
+        },
+        "locations": [
+            "Oceania"
+        ],
+        "characteristics": {
+            "main_prey": "Insects, Worms, Spiders",
+            "distinctive_feature": "Long limbs and rough, bumpy skin",
+            "habitat": "Forests, rivers and marshes",
+            "predators": "Foxes, Snakes, Birds",
+            "diet": "Carnivore",
+            "lifestyle": "Solitary",
+            "favorite_food": "Insects",
+            "type": "Amphibian",
+            "average_clutch_size": "200",
+            "slogan": "Found close to marshes, streams and lakes!",
+            "color": "BrownGreyYellowBlackGreen",
+            "skin_type": "Permeable",
+            "top_speed": "5 mph",
+            "lifespan": "10 - 15 years",
+            "weight": "20g - 80g (0.7oz - 2.8oz)",
+            "length": "6cm - 10cm (2.4in - 4in)"
+        },
+        "fun fact": [
+            
+        ],
+        "conservation status": "Vulnerable"
+    },
+    "Common Frog": {
+        "image": [
+            "resources/images/Common Frog.jpg"
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Ranidae",
+            "genus": "Rana",
+            "scientific_name": "Rana temporaria"
+        },
+        "locations": [
+            "Europe"
+        ],
+        "characteristics": {
+            "main_prey": "Insects, Worms, Snails",
+            "distinctive_feature": "Short back legs and webbed toes",
+            "habitat": "Forests, rivers and marshes",
+            "diet": "Carnivore",
+            "lifestyle": "Solitary",
+            "favorite_food": "Insects",
+            "type": "Amphibian",
+            "average_clutch_size": "1500",
+            "slogan": "Found throughout the European continent!",
+            "color": "BrownGreyBlackGreen",
+            "skin_type": "Permeable",
+            "top_speed": "5 mph",
+            "lifespan": "5 - 10 years",
+            "weight": "20g - 80g (0.7oz - 2.8oz)",
+            "length": "6cm - 10cm (2.4in - 4in)"
+        },
+        "fun fact": [
+            
+        ],
+        "conservation status": "Least Concern"
+    },
+    "Darwin's Frog": {
+        "image": [
+            "resources/images/Darwin's Frog.jpg"
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Rhinodermatidae",
+            "genus": "Rhinoderma",
+            "scientific_name": "Rhinoderma Darwinii"
+        },
+        "locations": [
+            "South-America"
+        ],
+        "characteristics": {
+            "main_prey": "Insects, Worms, Snails",
+            "distinctive_feature": "Small body size and leaf-like appearance",
+            "habitat": "Beech-tree forests and in fields",
+            "predators": "Rodents, Snakes, Birds",
+            "diet": "Carnivore",
+            "lifestyle": "Solitary",
+            "favorite_food": "Insects",
+            "type": "Amphibian",
+            "average_clutch_size": "30",
+            "slogan": "Camouflages itself as a dead leaf!",
+            "color": "BrownGreyBlackTanGreen",
+            "skin_type": "Permeable",
+            "top_speed": "5 mph",
+            "lifespan": "10 - 15 years",
+            "weight": "2g - 5g (0.07oz - 0.17oz)",
+            "length": "2.5cm - 3.5cm (0.9in - 1.4in)"
+        },
+        "fun fact": [
+            
+        ],
+        "conservation status": "Endangered"
+    },
+    "Desert Rain Frog": {
+        "image": [
+            null
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Brevicipitidae",
+            "genus": "Breviceps",
+        "scientific_name": "Breviceps macrops"
+        },
+        "locations": [
+            "Africa"
+        ],
+        "characteristics": {
+            "estimated_population_size": "unknown",
+            "biggest_threat": "Humans",
+            "most_distinctive_feature": "Large body, small limbs",
+            "other_name(s)": "Boulenger's short-headed, frogweb-footed rain frog",
+            "litter_size": "12–40",
+            "habitat": "Sand dunes",
+            "predators": "Birds, Larger Mammals",
+            "diet": "Omnivore",
+            "favorite_food": "Insects, larve",
+            "type": "Amphibian",
+            "color": "YellowLight-Brown",
+            "skin_type": "Permeable",
+            "lifespan": "2 to 15 years",
+            "weight": "Up to 0.4 oz",
+            "length": "2–2.5 inches"
+        },
+        "fun fact": [
+            
+        ],
+        "conservation status": null
+    },
+    "Edible Frog": {
+        "image": [
+            "resources/images/Edible Frog.jpg"
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Ranidae",
+            "genus": "Pelophylax",
+        "scientific_name": "Pelophylax kl. esculentus"
+        },
+        "locations": [
+            "Europe"
+        ],
+        "characteristics": {
+            "prey": "Insects, Moths, Spiders",
+            "name_of_young": "Tadpole",
+            "group_behavior": "Solitary",
+            "estimated_population_size": "Sustainable",
+            "biggest_threat": "Habitat loss",
+            "distinctive_feature": "Long legs and streamlined body",
+            "other_name(s)": "Common Water Frog, Green Frog",
+            "water_type": "Fresh",
+            "incubation_period": "2 - 3 weeks",
+            "age_of_independence": "Immediately",
+            "average_spawn_size": "6,000",
+            "habitat": "Woodland swamps and ponds",
+            "predators": "Foxes, Cats, Birds",
+            "diet": "Omnivore",
+            "lifestyle": "Diurnal",
+            "common_name": "Edible Frog",
+            "number_of_species": "1",
+            "location": "Across central Europe",
+            "slogan": "Are known to guard the muddy banks!",
+            "group": "Amphibian",
+            "color": "BrownBlackTanGreen",
+            "skin_type": "Permeable",
+            "top_speed": "5 mph",
+            "lifespan": "5 - 15 years",
+            "weight": "5g - 12g (0.17oz - 0.4oz)",
+            "length": "5cm - 11cm (1.9in - 4.7in)",
+            "age_of_sexual_maturity": "2 years"
+        },
+        "fun fact": [
+            
+        ],
+        "conservation status": null
+    },
+    "Glass Frog": {
+        "image": [
+            null
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Centrolenidae"
+          },
+        "locations": [
+            "Central-America"
+        ],
+        "characteristics": {
+            "main_prey": "Small insects and other smaller frogs",
+            "name_of_young": "tadpoles",
+            "group_behavior": "Solitary/Group",
+            "estimated_population_size": "Unknown number of thousands",
+            "biggest_threat": "Rainforest deforestation",
+            "most_distinctive_feature": "Moves by saltation (bipedal jumping)",
+            "other_name(s)": "Leaf frog, tree frog",
+            "gestation_period": "Two weeks",
+            "litter_size": "18 to 30 eggs",
+            "habitat": "Arboreal, tropical mountainous, high montane streams",
+            "predators": "Birds, snakes, and small mammals. Frog flies attack the eggs.",
+            "diet": "Carnivore",
+            "type": "Amphibian",
+            "common_name": "Glass frog",
+            "location": "Central and South America",
+            "group": "Communal",
+            "color": "Green",
+            "skin_type": "Permeable",
+            "lifespan": "10 to 14 years",
+            "weight": "5 to 14 grams (0.2 to 0.5 ounces)",
+            "height": "1 to 2 cm (0.4 to 0.8 inches)",
+            "length": "3 to7.5 cm (1.2 to 3.0 inches)",
+            "age_of_sexual_maturity": "One year",
+            "age_of_weaning": "Larval tadpole stage is up to 10 months"
+        },
+        "fun fact": [
+            
+        ],
+        "conservation status": null
+    },
+    "Goliath Frog": {
+        "image": [
+            "resources/images/Goliath Frog.jpg"
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Conrauidae",
+            "genus": "Conraua",
+            "scientific_name": "Conraua goliath"
+        },
+        "locations": [
+            "Africa"
+        ],
+        "characteristics": {
+            "main_prey": "insects, fish, crustaceans, mollusks, amphibians",
+            "name_of_young": "tadpole",
+            "group_behavior": "Solitary",
+            "estimated_population_size": "unknown",
+            "biggest_threat": "hunting",
+            "most_distinctive_feature": "massive size",
+            "other_name(s)": "Giant Slippery Frog, Goliath Bullfrog",
+            "gestation_period": "85-95 days",
+            "average_spawn_size": "several hundred-several thousand",
+            "habitat": "freshwater, tropical, rainforest",
+            "predators": "humans",
+            "diet": "Carnivore",
+            "lifestyle": "Solitary",
+            "type": "amphibian",
+            "common_name": "Goliath Frog",
+            "number_of_species": "1",
+            "location": "Africa",
+            "color": "BrownYellowGreenOrange",
+            "skin_type": "Permeable",
+            "lifespan": "15 years",
+            "weight": "1.3lbs-7.2lbs",
+            "length": "17cm-32cm (6.7in-12.6in)",
+            "age_of_sexual_maturity": "10-12 months"
+        },
+        "fun fact": [
+            "The Goliath Frog, which is found in Africa, is the largest living frog in the world!",
+            "The Goliath Frog can jump nearly 3 meters (10 feet) forward."
+        ],
+        "conservation status": "Endangered"
+    },
+    "Gray Tree Frog": {
+        "image": [
+            null
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Hylidae",
+            "genus": "Hyla",
+            "scientific_name": "Hyla versicolor"
+        },
+        "locations": [
+            "North-America"
+        ],
+        "characteristics": {
+            "prey": "mites, spiders, plant lice, snails, slugs",
+            "name_of_young": "tadpole",
+            "group_behavior": "Solitary",
+            "estimated_population_size": "Unknown",
+            "biggest_threat": "Habitat loss",
+            "most_distinctive_feature": "Change color based on temperature and activity",
+            "gestation_period": "Eggs hatch after 3 to 7 days, depending on water temperature",
+            "average_spawn_size": "1000 to 2000 eggs in groups of 10 - 40",
+            "habitat": "Forest, swamps, agricultural land, residential backyards",
+            "predators": "Birds, snakes, small mammals, and other frogs",
+            "diet": "Carnivore",
+            "type": "Amphibian",
+            "common_name": "Gray Tree Frog",
+            "number_of_species": "1",
+            "location": "Eastern U.S. and southeastern Canada",
+            "color": "BrownGreyGreen",
+            "lifespan": "7 to 9 years",
+            "length": "males are 1.25in - 2in (32mm - 52mm) females are 1.5in - 2.25in (38mm - 60mm)",
+            "age_of_sexual_maturity": "2 years",
+            "age_of_weaning": "45 to 65 days for metamorphosis from tadpole"
+        },
+        "fun fact": [
+            
+        ],
+        "conservation status": null
+    },
+    "Green Frog": {
+        "image": [
+            "resources/images/Green Frog.jpeg"
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Ranidae",
+            "genus": "Lithobates",
+            "scientific_name": "Lithobates clamitans"
+        },
+        "locations": [
+            "North-America"
+        ],
+        "characteristics": {
+            "main_prey": "Insects, fish, small snakes, slugs, and snails",
+            "name_of_young": "Tadpole",
+            "group_behavior": "Solitary",
+            "estimated_population_size": "1,000,000",
+            "biggest_threat": "Water pollution, loss of habitat",
+            "most_distinctive_feature": "prominent dorsolateral ridges",
+            "other_name(s)": "Lithobates clamitans, Rana clamitans",
+            "gestation_period": "4-14 days to hatch",
+            "water_type": "Fresh",
+            "average_spawn_size": "1,000-1,500 eggs annually",
+            "habitat": "Swamps, ponds, Lakes, and marshes",
+            "predators": "Humans, larger frogs, turtles, snakes, birds, raccoons, and otters",
+            "diet": "Carnivore",
+            "type": "Amphibian",
+            "common_name": "Green frog",
+            "number_of_species": "2",
+            "location": "Eastern North America, Canada",
+            "color": "BrownBlueGreen",
+            "skin_type": "Permeable",
+            "top_speed": "10 mph",
+            "lifespan": "6 years",
+            "weight": "28-85 g (0.99-3.00 oz)",
+            "height": "6-9 cm (2.4 to 3.5 in)",
+            "length": "5–10 cm (2.0–3.9 in)",
+            "age_of_sexual_maturity": "1 year",
+            "age_of_weaning": "N/A"
+        },
+        "fun fact": [
+            
+        ],
+        "conservation status": null
+    },
+    "Horned Frog": {
+        "image": [
+            null
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Leptodactylidae",
+            "genus": "Ceratophrys",
+            "scientific_name": "Ceratophrys Ornata"
+        },
+        "locations": [
+            "South-America"
+        ],
+        "characteristics": {
+            "main_prey": "Worms, Roaches, Insects",
+            "habitat": "Rainforest and tropical swamplands",
+            "predators": "Birds, Snakes, Bears",
+            "diet": "Carnivore",
+            "average_litter_size": "1,500",
+            "lifestyle": "Solitary",
+            "favorite_food": "Worms",
+            "type": "Amphibian",
+            "slogan": "Natively found in South America!",
+            "color": "BrownYellowWhite",
+            "skin_type": "Hair",
+            "top_speed": "5 mph",
+            "lifespan": "5-8 years",
+            "weight": "320-480g (11.2-17oz)"
+        },
+        "fun fact": [
+            
+        ],
+        "conservation status": null
+    },
+    "Leopard Frog": {
+        "image": [
+            null
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Ranidae",
+            "genus": "Lithobates"
+        },
+        "locations": [
+            "Central-America",
+            "North-America",
+            "South-America"
+        ],
+        "characteristics": {
+            "main_prey": "Insects, Mollusks, birds, Worms, snakes, frogs",
+            "name_of_young": "Tadpoles",
+            "group_behavior": "Largely solitary",
+            "estimated_population_size": "Millions",
+            "biggest_threat": "Habitat loss, pollution",
+            "most_distinctive_feature": "Leopard-like spots",
+            "other_name(s)": "Meadow frog, grass frog",
+            "gestation_period": "70-110 days",
+            "water_type": "Fresh",
+            "average_spawn_size": "Up to 6500",
+            "habitat": "Forest, grassland, wetland",
+            "predators": "Various, including raccoons, foxes, snakes, birds, frogs, humans",
+            "diet": "Carnivore",
+            "type": "Amphibian",
+            "common_name": "Leopard Frog",
+            "location": "From southern Canada through northern South America",
+            "color": "BrownBlackGreen",
+            "skin_type": "Permeable",
+            "lifespan": "Five to eight years",
+            "weight": "One half to three ounces",
+            "length": "Two to five inches"
+        },
+        "fun fact": [
+            
+        ],
+        "conservation status": null
+    },
+    "Mantella Frog": {
+        "image": [
+            null
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Mantellidae",
+            "genus": "Mantella"
+        },
+        "locations": [
+            "Africa"
+        ],
+        "characteristics": {
+            "prey": "Termites, ants, fruit flies, other insects",
+            "name_of_young": "tadpoles and froglets",
+            "group_behavior": "Colony",
+            "estimated_population_size": "unknown, varies by species",
+            "biggest_threat": "climate change and pollution",
+            "most_distinctive_feature": "Size and color",
+            "other_name(s)": "Jewels of Madagascar, Malagasy poison frogs",
+            "gestation_period": "2 days",
+            "litter_size": "dozens",
+            "habitat": "Island of Madagascar",
+            "predators": "Small mammals, snakes, birds",
+            "diet": "Carnivore",
+            "type": "Amphibian",
+            "common_name": "Mantella frogs",
+            "number_of_species": "16",
+            "location": "Madagascar",
+            "color": "YellowBlueBlackGreenOrange",
+            "skin_type": "Permeable",
+            "lifespan": "5 years to 10 years",
+            "weight": "Up to 2oz",
+            "length": "0.71in –1.22in (18mm-31mm)",
+            "age_of_sexual_maturity": "12 to 15 months"
+        },
+        "fun fact": [
+            
+        ],
+        "conservation status": null
+    },
+    "Marsh Frog": {
+        "image": [
+            null
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Ranidae",
+            "genus": "Pelophylax",
+            "scientific_name": "Pelophylax ridibundus"
+        },
+        "locations": [
+            "Asia",
+            "Eurasia",
+            "Europe"
+        ],
+        "characteristics": {
+            "main_prey": "Insects, Moths, Spiders",
+            "distinctive_feature": "Large head and long hind legs",
+            "habitat": "Ponds, lakes and rivers",
+            "predators": "Fish, Toads, Birds",
+            "diet": "Carnivore",
+            "lifestyle": "Solitary",
+            "favorite_food": "Insects",
+            "type": "Amphibian",
+            "average_clutch_size": "1000",
+            "slogan": "Has bright green skin!",
+            "color": "BrownYellowBlackWhiteGreen",
+            "skin_type": "Permeable",
+            "top_speed": "5 mph",
+            "lifespan": "5 - 10 years",
+            "weight": "12g - 15g (0.4oz - 0.5oz)",
+            "length": "12cm - 17cm (4.7in - 7in)"
+        },
+        "fun fact": [
+            
+        ],
+        "conservation status": null
+    },
+    "Poison Dart Frog": {
+        "image": [
+            null
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Dendrobatidae"
+          },
+        "locations": [
+            "Central-America",
+            "South-America"
+        ],
+        "characteristics": {
+            "main_prey": "Insects, Ants, Spiders",
+            "habitat": "Tropical jungle and wet forests",
+            "predators": "Snake",
+            "diet": "Carnivore",
+            "average_litter_size": "10",
+            "lifestyle": "Solitary",
+            "favorite_food": "Insects",
+            "type": "Amphibian",
+            "slogan": "Inhabits the jungles of Central and South America!",
+            "color": "YellowRedBlueGreenOrange",
+            "skin_type": "Permeable",
+            "top_speed": "10 mph",
+            "lifespan": "2-4 years",
+            "weight": "2-7g (0.07-0.25oz)"
+        },
+        "fun fact": [
+            
+        ],
+        "conservation status": null
+    },
+    "Pool Frog": {
+        "image": [
+            null
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Ranidae",
+            "genus": "Pelophylax",
+            "scientific_name": "Pelophylax lessonae"
+        },
+        "locations": [
+            "Europe"
+        ],
+        "characteristics": {
+            "main_prey": "Insects, Moths, Spiders",
+            "distinctive_feature": "Spotted patterned skin and pointed snout",
+            "habitat": "Woodland ponds",
+            "predators": "Foxes, Cats, Birds",
+            "diet": "Carnivore",
+            "lifestyle": "Solitary",
+            "favorite_food": "Insects",
+            "type": "Amphibian",
+            "average_clutch_size": "1500",
+            "slogan": "The rarest amphibian in the UK!",
+            "color": "BrownYellowBlackGreen",
+            "skin_type": "Permeable",
+            "top_speed": "5 mph",
+            "lifespan": "1 - 6 years",
+            "weight": "20g - 80g (0.7oz - 2.8oz)",
+            "length": "5cm - 9cm (1.9in - 3.5in)"
+        },
+        "fun fact": [
+            
+        ],
+        "conservation status": null
+    },
+    "Red-Eyed Tree Frog": {
+        "image": [
+            null
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Hylidae or Anura",
+            "family": "Phyllomedusidae",
+            "genus": "Agalychnis",
+            "scientific_name": "Agalychnis callidryas"
+        },
+        "locations": [
+            "Central-America",
+            "South-America"
+        ],
+        "characteristics": {
+            "prey": "Insects, bacteria, plankton, smaller frogs",
+            "name_of_young": "tadpole",
+            "group_behavior": "Solitary",
+            "estimated_population_size": "Population unknown, but stable. Conservation status is least concern.",
+            "biggest_threat": "Pollution, habitat loss, climate change",
+            "most_distinctive_feature": "Its huge red eyes",
+            "other_name(s)": "Rana-de árbol ojos rojos",
+            "gestation_period": "6-10 days",
+            "litter_size": "40",
+            "habitat": "Around ponds and rivers in tropical rainforests",
+            "predators": "Bats, snakes, humans prey on adults, predatory insects and fish prey on tadpoles",
+            "diet": "Carnivore",
+            "type": "Amphibian",
+            "common_name": "Red-eyed tree frog",
+            "number_of_species": "1",
+            "location": "Mexico, Central America, Colombia",
+            "group": "Army, Knot",
+            "color": "YellowRedBlueGreenOrange",
+            "skin_type": "Skin",
+            "lifespan": "Up to five years",
+            "weight": "0.2 to 0.5 ounces",
+            "length": "2-3 inches",
+            "age_of_sexual_maturity": "two years"
+        },
+        "fun fact": [
+            
+        ],
+        "conservation status": null
+    },
+    "Scrotum Frog": {
+        "image": [
+            null
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Telmatobiidae",
+            "genus": "Telmatobius",
+            "scientific_name": "Telmatobius culeus"
+        },
+        "locations": [
+            "South-America"
+        ],
+        "characteristics": {
+            "prey": "Snails, fish, tadpoles, amphipods, aquatic insects",
+            "name_of_young": "Larva, tadpole",
+            "group_behavior": "Solitary",
+            "estimated_population_size": "As few as 45",
+            "biggest_threat": "Hunting, invasive species, pollution, disease",
+            "most_distinctive_feature": "its loose skin",
+            "other_name(s)": " Lake Titicaca frog, Titicaca water frog",
+            "gestation_period": "one to two weeks",
+            "litter_size": "80 to 500",
+            "habitat": "The Lake Titicaca basin",
+            "predators": "trou, humans",
+            "diet": "Carnivore",
+            "type": "amphibian",
+            "common_name": "Scrotum frog",
+            "number_of_species": "1",
+            "location": "Peru and Bolivia",
+            "group": "solitary",
+            "color": "BrownGreyGreen",
+            "skin_type": "Skin",
+            "lifespan": "up to 15 years",
+            "weight": "nine ounces to two pounds",
+            "length": "As much as eight inches, with 16-inch hind legs",
+            "age_of_sexual_maturity": "five years"
+        },
+        "fun fact": [
+            "Telmatobius culeus (Scrotum Frog) is a totally aquatic frog and does not need to have to come up for air.",
+            "The Scrotum Frog's folds of excessive skin aid it breathe and are fundamentally its gills.",
+            "Scrotum frogs are nocturnal."
+        ],
+        "conservation status": null
+    },
+    "Striped Rocket Frog": {
+        "image": [
+            null
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Hylidae",
+            "genus": "Litoria",
+            "scientific_name": "Litoria nasuta"
+        },
+        "locations": [
+            "Oceania"
+        ],
+        "characteristics": {
+            "main_prey": "Insects, Moths, Spiders",
+            "distinctive_feature": "Long legs and streamlined body",
+            "habitat": "Woodland swamps and ponds",
+            "diet": "Carnivore",
+            "lifestyle": "Solitary",
+            "favorite_food": "Insects",
+            "type": "Amphibian",
+            "average_clutch_size": "60",
+            "slogan": "Long powerful hind legs!",
+            "color": "BrownBlackTanGreen",
+            "skin_type": "Permeable",
+            "top_speed": "5 mph",
+            "lifespan": "10 - 15 years",
+            "weight": "5g - 8g (0.17oz - 0.28oz)",
+            "length": "5cm - 5.5cm (1.9in - 2.1in)"
+        },
+        "fun fact": [
+            "Thanks to their long legs and strong muscles, striped rocket frogs can leap approximately 6.5 feet into the air, which is more than twice their body length."
+        ],
+        "conservation status": null
+    },
+    "Tree Frog": {
+        "image": [
+            null
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Hylidae"
+          },
+        "locations": [
+            "Africa",
+            "Asia",
+            "Central-America",
+            "Eurasia",
+            "Europe",
+            "North-America",
+            "Oceania",
+            "South-America"
+        ],
+        "characteristics": {
+            "main_prey": "Insects, Worms, Small Frogs",
+            "habitat": "Forests, woodlands and marshes",
+            "predators": "Birds, Mammals, Reptiles",
+            "diet": "Carnivore",
+            "lifestyle": "Solitary",
+            "favorite_food": "Insects",
+            "type": "Amphibian",
+            "average_clutch_size": "50",
+            "slogan": "Found in warmer jungles and forests!",
+            "color": "BrownGreyYellowBlackGreen",
+            "skin_type": "Permeable",
+            "top_speed": "10 mph",
+            "lifespan": "2-4 years",
+            "weight": "2-17g (0.07-0.6oz)"
+        },
+        "fun fact": [
+            
+        ],
+        "conservation status": null
+    },
+    "Wood Frog": {
+        "image": [
+            "resources/images/Wood Frog.jpg",
+            "resources/images/Wood Frog1.jpg",
+            "resources/images/Wood Frog2.jpg"
+        ],
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Amphibia",
+            "order": "Anura",
+            "family": "Ranidae",
+            "genus": "Lithobates",
+            "scientific_name": "Lithobates sylvaticus"
+        },
+        "locations": [
+            "North-America"
+        ],
+        "characteristics": {
+            "prey": "Insects, slugs, worms, arachnids, and snails",
+            "name_of_young": "Tadpoles",
+            "estimated_population_size": "While there are no estimates of the global population size, the overall population is stable.",
+            "biggest_threat": "Habitat fragmentation and loss due to anthropogenic causes and natural changes in habitat.",
+            "most_distinctive_feature": "Black marking across its eyes",
+            "gestation_period": "Between nine and 30 days",
+            "litter_size": "Females typically lay between 1,000 and 3,000 eggs.",
+            "habitat": "Woodlands and vernal pools.",
+            "predators": "Larger frogs, snakes, raccoons, herons, skunks, and mink.",
+            "diet": "Carnivore",
+            "type": "Amphibian",
+            "common_name": "Wood frog",
+            "number_of_species": "1",
+            "location": "North America, into the Arctic Circle and the Southern U.S.",
+            "color": "BrownGreyRedGreen",
+            "skin_type": "Permeable",
+            "lifespan": "Three years",
+            "weight": "0.28 ounces",
+            "length": "1.5 to three inches",
+            "age_of_sexual_maturity": "One to two years"
+        },
+        "fun fact": [
+            "The Wood Frogs have the furthest north range of any other North American reptile or amphibian.",
+            "The female Wood Frog can lay 1,000 to 3,000 eggs each breeding season.",
+            "The Wood Frog is the official amphibian of the state of New York."
+        ],
+        "conservation status": null       
+    }
+}
