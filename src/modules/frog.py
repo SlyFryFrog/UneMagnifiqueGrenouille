@@ -135,10 +135,10 @@ class FrogMessage:
     '''Creates message with frog facts'''
     def __init__(self):
         # Creates list of all frogs
-        with open("resources/frogs.json", "r") as file:
+        with open("resources/frogs.json", "r", encoding="utf-8") as file:
             self.frog_list = json.load(file)
         
-        with open("resources/frog_facts.json", "r") as file:
+        with open("resources/frog_facts.json", "r", encoding="utf-8") as file:
             self.frog_facts_dictionary = json.load(file)
 
 
@@ -150,7 +150,7 @@ class FrogMessage:
     def get_frog_fact(self, daily):
         '''Gets a frog fact about a random frog'''
         if daily:
-            with open("resources/daily_frog_facts.json", "r") as file:
+            with open("resources/daily_frog_facts.json", "r", encoding="utf-8") as file:
                 frog_facts = json.load(file)
             
             message = frog_facts[random.randint(0, len(frog_facts) - 1)]

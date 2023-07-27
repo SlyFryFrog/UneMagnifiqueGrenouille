@@ -23,12 +23,12 @@ def default_config():
 
 def update_guild_settings(guild_id_list):
     '''Updates the channel saved for the daily frog fact'''
-    with open(json_file, "w") as file:
+    with open(json_file, "w", encoding="utf-8") as file:
         json.dump(guild_id_list, file, indent=4, separators=(',', ': '))
 
 
 def read_config():
-    with open(json_file, "r") as file:
+    with open(json_file, "r", encoding="utf-8") as file:
         guild_id_list = json.load(file)
         
     return guild_id_list
